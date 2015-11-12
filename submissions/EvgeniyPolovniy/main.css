@@ -1,0 +1,19 @@
+.yoda {
+  margin: 0 auto; display: block;
+}
+.css-scroll-buttons button {
+  cursor: pointer;
+  transition: all .25s linear;
+}
+button.css-button-disabled {
+  cursor: default;
+}
+.css-scroll-buttons button:hover {
+  background: #407689;
+}
+button.css-button-disabled:hover {
+  background: #39697A;
+}
+.css-slot.css-slot-red {
+  color: #f00;
+}

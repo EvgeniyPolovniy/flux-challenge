@@ -1,0 +1,22 @@
+{
+  "name": "flux-challenge-EvgeniyPolovniy",
+  "version": "0.0.1",
+  "description": "Flux Challenge",
+  "main": "main.js",
+  "author": "Evgeniy Polovniy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:staltz/flux-challenge.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.2.0",
+    "gulp-babel": "^5.3.0",
+    "object-assign": "^4.0.1",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "flux": "^2.0.1",
+    "require-dir": "^0.3.0"
+  }
+}
